@@ -1,0 +1,329 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.11.28)  10 DEC 2018 19:18
+entering extended mode
+**./MOVK_SW11_Exercises_Group_B.tex
+(MOVK_SW11_Exercises_Group_B.tex
+LaTeX2e <2018-04-01> patch level 5
+
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/l
+atex/base/article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/l
+atex/base/size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/l
+atex/base/inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/g
+eneric/babel/babel.sty"
+Package: babel 2018/11/13 3.27 The Babel package
+
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/g
+eneric/babel/switch.def"
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/l
+atex/arabi/bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/l
+atex/babel-german/ngerman.ldf"
+Language: ngerman 2018/03/29 v2.10 German support for babel (post-1996 orthogra
+phy)
+
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/l
+atex/babel-german/ngermanb.ldf"
+Language: ngermanb 2018/03/29 v2.10 German support for babel (post-1996 orthogr
+aphy)
+
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/g
+eneric/babel/babel.def"
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/g
+eneric/babel/txtbabel.def")
+\bbl@dirlevel=\count89
+)
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language `German (new orthography)' into the format.
+
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 47.
+
+\l@ngerman = a dialect from \language0
+Package babel Info: Making " an active character on input line 121.
+)))
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/l
+atex/amsmath/amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/l
+atex/amsmath/amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/l
+atex/amsmath/amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen104
+))
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/l
+atex/amsmath/amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/l
+atex/amsmath/amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count90
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count91
+\leftroot@=\count92
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count93
+\DOTSCASE@=\count94
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count95
+\c@MaxMatrixCols=\count96
+\dotsspace@=\muskip10
+\c@parentequation=\count97
+\dspbrk@lvl=\count98
+\tag@help=\toks17
+\row@=\count99
+\column@=\count100
+\maxfields@=\count101
+\andhelp@=\toks18
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/l
+atex/geometry/geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/l
+atex/graphics/keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/g
+eneric/oberdiek/ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/g
+eneric/oberdiek/ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/g
+eneric/ifxetex/ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count102
+\Gm@cntv=\count103
+\c@Gm@tempcnt=\count104
+\Gm@bindingoffset=\dimen113
+\Gm@wd@mp=\dimen114
+\Gm@odd@mp=\dimen115
+\Gm@even@mp=\dimen116
+\Gm@layoutwidth=\dimen117
+\Gm@layoutheight=\dimen118
+\Gm@layouthoffset=\dimen119
+\Gm@layoutvoffset=\dimen120
+\Gm@dimlist=\toks22
+
+("/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/tex/l
+atex/geometry/geometry.cfg")) (MOVK_SW11_Exercises_Group_B.aux)
+\openout1 = `MOVK_SW11_Exercises_Group_B.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(99.58464pt, 398.3386pt, 99.58464pt)
+* v-part:(T,H,B)=(99.58464pt, 645.87756pt, 99.58464pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=398.3386pt
+* \textheight=645.87756pt
+* \oddsidemargin=27.31465pt
+* \evensidemargin=27.31465pt
+* \topmargin=-9.68535pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Overfull \hbox (14.30879pt too wide) in paragraph at lines 26--27
+\OT1/cmr/m/n/10 dazu animieren, []ofter abzustimmen. Durch l[]angere Erfahrunge
+n gelangte man gr[]osstenteils
+ []
+
+
+Overfull \hbox (5.39098pt too wide) in paragraph at lines 27--29
+[]\OT1/cmr/m/n/10 In der \OT1/cmr/bx/n/10 Schweiz \OT1/cmr/m/n/10 wird von den 
+Betreibern ein Schl[]usselpaar aus []offentlichem und privatem
+ []
+
+
+Overfull \hbox (14.95383pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 Gruppe von Spezialisten der Wahlkommission und ausgew[]ahlte Dr
+itte zug[]anglich gemacht.
+ []
+
+
+Overfull \hbox (6.42696pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 In \OT1/cmr/bx/n/10 Estland \OT1/cmr/m/n/10 wiederum wird zur I
+dentifizierung der Wahlberechtigten der Personalausweis
+ []
+
+
+Overfull \hbox (15.32982pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 erm[]oglicht es, sich mit einem speziellen Kartenleseger[]at ei
+nzuloggen und die Identifizierung
+ []
+
+
+Overfull \hbox (13.77441pt too wide) in paragraph at lines 27--29
+\OT1/cmr/m/n/10 m[]oglich, seine Stimme im Nachhinein noch abzu[]andern oder vi
+a Stimmzettel abzustimmen
+ []
+
+
+Overfull \hbox (34.33601pt too wide) in paragraph at lines 31--31
+[]\OT1/cmr/bx/n/14.4 Aufgabe 2 - Wahlprotokoll mit symmetrischer Verschl[]ussel
+ung 
+ []
+
+[1
+
+{/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/data/pdftex/co
+nfig/pdftex.map}]
+Overfull \hbox (3.93982pt too wide) in paragraph at lines 37--38
+\OT1/cmr/m/n/10 verschl[]usselte Stimme von Alice zu rekonstruieren oder aufgru
+nd des von Alice ans Z[]ahlsystem
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--83
+
+ []
+
+[3] (MOVK_SW11_Exercises_Group_B.aux) ) 
+Here is how much of TeX's memory you used:
+ 2015 strings out of 494889
+ 28712 string characters out of 3176416
+ 104096 words of memory out of 3000000
+ 5649 multiletter control sequences out of 15000+200000
+ 9728 words of font info for 35 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 27i,8n,32p,1059b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
+</Users/maurinthalmann/Library/Applicati
+on Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Us
+ers/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb></Users/maurinthalmann/Library/Application Supp
+ort/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></Users/m
+aurinthalmann/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb></Users/maurinthalmann/Library/Application Support/M
+iKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Users/maurintha
+lmann/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsf
+onts/cm/cmr10.pfb></Users/maurinthalmann/Library/Application Support/MiKTeX/tex
+mfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Users/maurinthalmann/Lib
+rary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/c
+mr17.pfb></Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/insta
+ll/fonts/type1/public/amsfonts/cm/cmr7.pfb></Users/maurinthalmann/Library/Appli
+cation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+</Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/fonts/
+type1/public/amsfonts/cm/cmsy7.pfb></Users/maurinthalmann/Library/Application S
+upport/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on MOVK_SW11_Exercises_Group_B.pdf (3 pages, 147932 bytes).
+PDF statistics:
+ 60 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
