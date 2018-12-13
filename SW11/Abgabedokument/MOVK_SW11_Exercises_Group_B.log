@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.12.12)  13 DEC 2018 08:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.12.12)  13 DEC 2018 09:56
 entering extended mode
 **./MOVK_SW11_Exercises_Group_B.tex
 (MOVK_SW11_Exercises_Group_B.tex
@@ -181,18 +181,18 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 atex/geometry/geometry.cfg")) (MOVK_SW11_Exercises_Group_B.aux)
 \openout1 = `MOVK_SW11_Exercises_Group_B.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -229,43 +229,13 @@ LaTeX Font Info:    ... okay on input line 10.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-Overfull \hbox (14.30879pt too wide) in paragraph at lines 26--27
-\OT1/cmr/m/n/10 dazu animieren, []ofter abzustimmen. Durch l[]angere Erfahrunge
-n gelangte man gr[]osstenteils
- []
-
-
-Overfull \hbox (5.39098pt too wide) in paragraph at lines 27--29
+Overfull \hbox (5.39098pt too wide) in paragraph at lines 32--34
 []\OT1/cmr/m/n/10 In der \OT1/cmr/bx/n/10 Schweiz \OT1/cmr/m/n/10 wird von den 
 Betreibern ein Schl[]usselpaar aus []offentlichem und privatem
  []
 
 
-Overfull \hbox (14.95383pt too wide) in paragraph at lines 27--29
-\OT1/cmr/m/n/10 Gruppe von Spezialisten der Wahlkommission und ausgew[]ahlte Dr
-itte zug[]anglich gemacht.
- []
-
-
-Overfull \hbox (6.42696pt too wide) in paragraph at lines 27--29
-\OT1/cmr/m/n/10 In \OT1/cmr/bx/n/10 Estland \OT1/cmr/m/n/10 wiederum wird zur I
-dentifizierung der Wahlberechtigten der Personalausweis
- []
-
-
-Overfull \hbox (15.32982pt too wide) in paragraph at lines 27--29
-\OT1/cmr/m/n/10 erm[]oglicht es, sich mit einem speziellen Kartenleseger[]at ei
-nzuloggen und die Identifizierung
- []
-
-
-Overfull \hbox (13.77441pt too wide) in paragraph at lines 27--29
-\OT1/cmr/m/n/10 m[]oglich, seine Stimme im Nachhinein noch abzu[]andern oder vi
-a Stimmzettel abzustimmen
- []
-
-
-Overfull \hbox (34.33601pt too wide) in paragraph at lines 31--31
+Overfull \hbox (34.33601pt too wide) in paragraph at lines 36--36
 []\OT1/cmr/bx/n/14.4 Aufgabe 2 - Wahlprotokoll mit symmetrischer Verschl[]ussel
 ung 
  []
@@ -274,35 +244,35 @@ ung
 
 {/Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/data/pdftex/co
 nfig/pdftex.map}]
-Overfull \hbox (3.93982pt too wide) in paragraph at lines 37--38
+Overfull \hbox (3.93982pt too wide) in paragraph at lines 42--43
 \OT1/cmr/m/n/10 verschl[]usselte Stimme von Alice zu rekonstruieren oder aufgru
 nd des von Alice ans Z[]ahlsystem
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--80
+Underfull \hbox (badness 10000) in paragraph at lines 81--85
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--80
+Underfull \hbox (badness 10000) in paragraph at lines 81--85
 
  []
 
 [3] (MOVK_SW11_Exercises_Group_B.aux) ) 
 Here is how much of TeX's memory you used:
- 2011 strings out of 494889
- 28667 string characters out of 3176416
- 104096 words of memory out of 3000000
+ 2015 strings out of 494889
+ 28719 string characters out of 3176416
+ 104109 words of memory out of 3000000
  5647 multiletter control sequences out of 15000+200000
  9023 words of font info for 33 fonts, out of 3000000 for 9000
- 0 hyphenation exceptions out of 8191
- 27i,8n,32p,1059b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 4 hyphenation exceptions out of 8191
+ 27i,8n,32p,1061b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
 </Users/maurinthalmann/Library/Applicati
 on Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Us
 ers/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/fonts/type
@@ -318,7 +288,7 @@ y/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7
 .pfb></Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/f
 onts/type1/public/amsfonts/cm/cmsy10.pfb></Users/maurinthalmann/Library/Applica
 tion Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on MOVK_SW11_Exercises_Group_B.pdf (3 pages, 125419 bytes).
+Output written on MOVK_SW11_Exercises_Group_B.pdf (3 pages, 125453 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
