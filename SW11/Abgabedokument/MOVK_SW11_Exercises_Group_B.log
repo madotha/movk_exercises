@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.11.28)  10 DEC 2018 19:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840) (preloaded format=pdflatex 2018.12.12)  13 DEC 2018 08:59
 entering extended mode
 **./MOVK_SW11_Exercises_Group_B.tex
 (MOVK_SW11_Exercises_Group_B.tex
@@ -280,50 +280,47 @@ nd des von Alice ans Z[]ahlsystem
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--83
+Underfull \hbox (badness 10000) in paragraph at lines 76--80
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--83
+Underfull \hbox (badness 10000) in paragraph at lines 76--80
 
  []
 
 [3] (MOVK_SW11_Exercises_Group_B.aux) ) 
 Here is how much of TeX's memory you used:
- 2015 strings out of 494889
- 28712 string characters out of 3176416
+ 2011 strings out of 494889
+ 28667 string characters out of 3176416
  104096 words of memory out of 3000000
- 5649 multiletter control sequences out of 15000+200000
- 9728 words of font info for 35 fonts, out of 3000000 for 9000
+ 5647 multiletter control sequences out of 15000+200000
+ 9023 words of font info for 33 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  27i,8n,32p,1059b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
 </Users/maurinthalmann/Library/Applicati
 on Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Us
 ers/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/fonts/type
 1/public/amsfonts/cm/cmbx12.pfb></Users/maurinthalmann/Library/Application Supp
-ort/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></Users/m
-aurinthalmann/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/pub
-lic/amsfonts/cm/cmmi10.pfb></Users/maurinthalmann/Library/Application Support/M
-iKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Users/maurintha
-lmann/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsf
-onts/cm/cmr10.pfb></Users/maurinthalmann/Library/Application Support/MiKTeX/tex
-mfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></Users/maurinthalmann/Lib
-rary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/c
-mr17.pfb></Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/insta
-ll/fonts/type1/public/amsfonts/cm/cmr7.pfb></Users/maurinthalmann/Library/Appli
-cation Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-</Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/fonts/
-type1/public/amsfonts/cm/cmsy7.pfb></Users/maurinthalmann/Library/Application S
-upport/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on MOVK_SW11_Exercises_Group_B.pdf (3 pages, 147932 bytes).
+ort/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Users/mau
+rinthalmann/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/publi
+c/amsfonts/cm/cmmi7.pfb></Users/maurinthalmann/Library/Application Support/MiKT
+eX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/maurinthalma
+nn/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfont
+s/cm/cmr12.pfb></Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs
+/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Users/maurinthalmann/Librar
+y/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr7
+.pfb></Users/maurinthalmann/Library/Application Support/MiKTeX/texmfs/install/f
+onts/type1/public/amsfonts/cm/cmsy10.pfb></Users/maurinthalmann/Library/Applica
+tion Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on MOVK_SW11_Exercises_Group_B.pdf (3 pages, 125419 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
+ 52 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
